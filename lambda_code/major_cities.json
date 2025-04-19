@@ -1,0 +1,1822 @@
+[
+  {
+    "id": 1253102,
+    "name": "Visakhapatnam",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 83.209251,
+      "lat": 17.690041
+    }
+  },
+  {
+    "id": 1253372.0,
+    "name": "Vasai",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 72.8,
+      "lat": 19.47
+    }
+  },
+  {
+    "id": 1253405,
+    "name": "Varanasi",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 83.0,
+      "lat": 25.333332
+    }
+  },
+  {
+    "id": 1253573,
+    "name": "Vadodara",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 73.199997,
+      "lat": 22.299999
+    }
+  },
+  {
+    "id": 1255634,
+    "name": "Srinagar",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 74.816673,
+      "lat": 34.083328
+    }
+  },
+  {
+    "id": 1258526,
+    "name": "Ranchi",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 85.333328,
+      "lat": 23.35
+    }
+  },
+  {
+    "id": 1259229,
+    "name": "Pune",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 73.855347,
+      "lat": 18.519569
+    }
+  },
+  {
+    "id": 1260086,
+    "name": "Patna",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 85.116669,
+      "lat": 25.6
+    }
+  },
+  {
+    "id": 1261731,
+    "name": "Nashik",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 73.800003,
+      "lat": 19.98333
+    }
+  },
+  {
+    "id": 1262180,
+    "name": "Nagpur",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 79.099998,
+      "lat": 21.15
+    }
+  },
+  {
+    "id": 1263214,
+    "name": "Meerut",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 77.699997,
+      "lat": 28.98333
+    }
+  },
+  {
+    "id": 1263215,
+    "name": "Meerut",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 77.683327,
+      "lat": 28.91667
+    }
+  },
+  {
+    "id": 1264521,
+    "name": "Madurai",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 78.116669,
+      "lat": 9.93333
+    }
+  },
+  {
+    "id": 1264527,
+    "name": "Chennai",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 80.278473,
+      "lat": 13.08784
+    }
+  },
+  {
+    "id": 1264733,
+    "name": "Lucknow",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 80.916664,
+      "lat": 26.85
+    }
+  },
+  {
+    "id": 1267995,
+    "name": "Kanpur",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 80.349998,
+      "lat": 26.466667
+    }
+  },
+  {
+    "id": 1269515,
+    "name": "Jaipur",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 75.816666,
+      "lat": 26.916668
+    }
+  },
+  {
+    "id": 1269517,
+    "name": "Jaipur",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 86.133331,
+      "lat": 23.433331
+    }
+  },
+  {
+    "id": 1269519,
+    "name": "Jaipur",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 76.0,
+      "lat": 27.0
+    }
+  },
+  {
+    "id": 1269633,
+    "name": "Jabalpur",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 79.950058,
+      "lat": 23.166969
+    }
+  },
+  {
+    "id": 1269743,
+    "name": "Indore",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 75.833298,
+      "lat": 22.71792
+    }
+  },
+  {
+    "id": 1269843,
+    "name": "Hyderabad",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 78.474442,
+      "lat": 17.37528
+    }
+  },
+  {
+    "id": 1270583,
+    "name": "Gwalior",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 78.179169,
+      "lat": 26.22361
+    }
+  },
+  {
+    "id": 1271951,
+    "name": "Faridabad",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 77.316666,
+      "lat": 28.433332
+    }
+  },
+  {
+    "id": 1273294,
+    "name": "Delhi",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 77.216667,
+      "lat": 28.666668
+    }
+  },
+  {
+    "id": 1273865,
+    "name": "Coimbatore",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 76.966667,
+      "lat": 11.0
+    }
+  },
+  {
+    "id": 1275004,
+    "name": "Kolkata",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 88.36972,
+      "lat": 22.569719
+    }
+  },
+  {
+    "id": 1275339,
+    "name": "Mumbai",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 72.847939,
+      "lat": 19.01441
+    }
+  },
+  {
+    "id": 1275841,
+    "name": "Bhopal",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 77.400002,
+      "lat": 23.26667
+    }
+  },
+  {
+    "id": 1277333,
+    "name": "Bengaluru",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 77.603287,
+      "lat": 12.97623
+    }
+  },
+  {
+    "id": 1278149,
+    "name": "Aurangabad",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 75.333328,
+      "lat": 19.883329
+    }
+  },
+  {
+    "id": 1278710,
+    "name": "Amritsar",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 74.865562,
+      "lat": 31.63306
+    }
+  },
+  {
+    "id": 1279233,
+    "name": "Ahmedabad",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 72.616669,
+      "lat": 23.033333
+    }
+  },
+  {
+    "id": 1279259,
+    "name": "Agra",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 78.01667,
+      "lat": 27.183332
+    }
+  },
+  {
+    "id": 4055815,
+    "name": "Cleveland",
+    "state": "AL",
+    "country": "US",
+    "coord": {
+      "lon": -86.577492,
+      "lat": 33.990929
+    }
+  },
+  {
+    "id": 4069553,
+    "name": "Jacksonville",
+    "state": "AL",
+    "country": "US",
+    "coord": {
+      "lon": -85.761353,
+      "lat": 33.813709
+    }
+  },
+  {
+    "id": 4099974,
+    "name": "Austin",
+    "state": "AR",
+    "country": "US",
+    "coord": {
+      "lon": -91.983757,
+      "lat": 34.998421
+    }
+  },
+  {
+    "id": 4116315,
+    "name": "Jacksonville",
+    "state": "AR",
+    "country": "US",
+    "coord": {
+      "lon": -92.110153,
+      "lat": 34.866199
+    }
+  },
+  {
+    "id": 4123271,
+    "name": "Nashville",
+    "state": "AR",
+    "country": "US",
+    "coord": {
+      "lon": -93.84713,
+      "lat": 33.945671
+    }
+  },
+  {
+    "id": 4151416,
+    "name": "Cleveland",
+    "state": "FL",
+    "country": "US",
+    "coord": {
+      "lon": -81.983978,
+      "lat": 26.961729
+    }
+  },
+  {
+    "id": 4160021,
+    "name": "Jacksonville",
+    "state": "FL",
+    "country": "US",
+    "coord": {
+      "lon": -81.655647,
+      "lat": 30.33218
+    }
+  },
+  {
+    "id": 4164047,
+    "name": "Memphis",
+    "state": "FL",
+    "country": "US",
+    "coord": {
+      "lon": -82.561211,
+      "lat": 27.53587
+    }
+  },
+  {
+    "id": 4164138,
+    "name": "Miami",
+    "state": "FL",
+    "country": "US",
+    "coord": {
+      "lon": -80.193657,
+      "lat": 25.774269
+    }
+  },
+  {
+    "id": 4171771,
+    "name": "San Antonio",
+    "state": "FL",
+    "country": "US",
+    "coord": {
+      "lon": -82.274529,
+      "lat": 28.336109
+    }
+  },
+  {
+    "id": 4180439,
+    "name": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "coord": {
+      "lon": -84.387978,
+      "lat": 33.749001
+    }
+  },
+  {
+    "id": 4183849,
+    "name": "Boston",
+    "state": "GA",
+    "country": "US",
+    "coord": {
+      "lon": -83.789886,
+      "lat": 30.791861
+    }
+  },
+  {
+    "id": 4188377,
+    "name": "Cleveland",
+    "state": "GA",
+    "country": "US",
+    "coord": {
+      "lon": -83.763237,
+      "lat": 34.597038
+    }
+  },
+  {
+    "id": 4188985,
+    "name": "Columbus",
+    "state": "GA",
+    "country": "US",
+    "coord": {
+      "lon": -84.987709,
+      "lat": 32.460979
+    }
+  },
+  {
+    "id": 4190598,
+    "name": "Dallas",
+    "state": "GA",
+    "country": "US",
+    "coord": {
+      "lon": -84.840767,
+      "lat": 33.92371
+    }
+  },
+  {
+    "id": 4206882,
+    "name": "Louisville",
+    "state": "GA",
+    "country": "US",
+    "coord": {
+      "lon": -82.41124,
+      "lat": 33.001541
+    }
+  },
+  {
+    "id": 4211839,
+    "name": "Nashville",
+    "state": "GA",
+    "country": "US",
+    "coord": {
+      "lon": -83.250153,
+      "lat": 31.20742
+    }
+  },
+  {
+    "id": 4229546,
+    "name": "Washington",
+    "state": "GA",
+    "country": "US",
+    "coord": {
+      "lon": -82.739311,
+      "lat": 33.73679
+    }
+  },
+  {
+    "id": 4241704,
+    "name": "Jacksonville",
+    "state": "IL",
+    "country": "US",
+    "coord": {
+      "lon": -90.229012,
+      "lat": 39.73394
+    }
+  },
+  {
+    "id": 4243551,
+    "name": "Louisville",
+    "state": "IL",
+    "country": "US",
+    "coord": {
+      "lon": -88.502548,
+      "lat": 38.77227
+    }
+  },
+  {
+    "id": 4245376,
+    "name": "Nashville",
+    "state": "IL",
+    "country": "US",
+    "coord": {
+      "lon": -89.380638,
+      "lat": 38.343658
+    }
+  },
+  {
+    "id": 4247770,
+    "name": "Raleigh",
+    "state": "IL",
+    "country": "US",
+    "coord": {
+      "lon": -88.531998,
+      "lat": 37.826988
+    }
+  },
+  {
+    "id": 4254010,
+    "name": "Austin",
+    "state": "IN",
+    "country": "US",
+    "coord": {
+      "lon": -85.808029,
+      "lat": 38.758389
+    }
+  },
+  {
+    "id": 4256038,
+    "name": "Columbus",
+    "state": "IN",
+    "country": "US",
+    "coord": {
+      "lon": -85.921379,
+      "lat": 39.201439
+    }
+  },
+  {
+    "id": 4259418,
+    "name": "Indianapolis",
+    "state": "IN",
+    "country": "US",
+    "coord": {
+      "lon": -86.158043,
+      "lat": 39.768379
+    }
+  },
+  {
+    "id": 4261983,
+    "name": "Nashville",
+    "state": "IN",
+    "country": "US",
+    "coord": {
+      "lon": -86.251099,
+      "lat": 39.207272
+    }
+  },
+  {
+    "id": 4266586,
+    "name": "Washington",
+    "state": "IN",
+    "country": "US",
+    "coord": {
+      "lon": -87.172791,
+      "lat": 38.659222
+    }
+  },
+  {
+    "id": 4269841,
+    "name": "Columbus",
+    "state": "KS",
+    "country": "US",
+    "coord": {
+      "lon": -94.844116,
+      "lat": 37.169231
+    }
+  },
+  {
+    "id": 4281253,
+    "name": "Washington",
+    "state": "KS",
+    "country": "US",
+    "coord": {
+      "lon": -97.050858,
+      "lat": 39.818062
+    }
+  },
+  {
+    "id": 4281730,
+    "name": "Wichita",
+    "state": "KS",
+    "country": "US",
+    "coord": {
+      "lon": -97.33754,
+      "lat": 37.692242
+    }
+  },
+  {
+    "id": 4299276,
+    "name": "Louisville",
+    "state": "KY",
+    "country": "US",
+    "coord": {
+      "lon": -85.759407,
+      "lat": 38.254238
+    }
+  },
+  {
+    "id": 4317656,
+    "name": "Boston",
+    "state": "LA",
+    "country": "US",
+    "coord": {
+      "lon": -92.055679,
+      "lat": 29.883261
+    }
+  },
+  {
+    "id": 4321929,
+    "name": "Delhi",
+    "state": "LA",
+    "country": "US",
+    "coord": {
+      "lon": -91.493172,
+      "lat": 32.457642
+    }
+  },
+  {
+    "id": 4347778,
+    "name": "Baltimore",
+    "state": "MD",
+    "country": "US",
+    "coord": {
+      "lon": -76.61219,
+      "lat": 39.290379
+    }
+  },
+  {
+    "id": 4391354,
+    "name": "Houston",
+    "state": "MO",
+    "country": "US",
+    "coord": {
+      "lon": -91.955994,
+      "lat": 37.32616
+    }
+  },
+  {
+    "id": 4413621,
+    "name": "Washington",
+    "state": "MO",
+    "country": "US",
+    "coord": {
+      "lon": -91.012093,
+      "lat": 38.558109
+    }
+  },
+  {
+    "id": 4422106,
+    "name": "Cleveland",
+    "state": "MS",
+    "country": "US",
+    "coord": {
+      "lon": -90.724823,
+      "lat": 33.743999
+    }
+  },
+  {
+    "id": 4422442,
+    "name": "Columbus",
+    "state": "MS",
+    "country": "US",
+    "coord": {
+      "lon": -88.427261,
+      "lat": 33.49567
+    }
+  },
+  {
+    "id": 4430529,
+    "name": "Houston",
+    "state": "MS",
+    "country": "US",
+    "coord": {
+      "lon": -88.999229,
+      "lat": 33.898449
+    }
+  },
+  {
+    "id": 4434283,
+    "name": "Louisville",
+    "state": "MS",
+    "country": "US",
+    "coord": {
+      "lon": -89.055061,
+      "lat": 33.123741
+    }
+  },
+  {
+    "id": 4440906,
+    "name": "Philadelphia",
+    "state": "MS",
+    "country": "US",
+    "coord": {
+      "lon": -89.11673,
+      "lat": 32.771519
+    }
+  },
+  {
+    "id": 4442797,
+    "name": "Raleigh",
+    "state": "MS",
+    "country": "US",
+    "coord": {
+      "lon": -89.522293,
+      "lat": 32.033489
+    }
+  },
+  {
+    "id": 4460243,
+    "name": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "coord": {
+      "lon": -80.843132,
+      "lat": 35.227089
+    }
+  },
+  {
+    "id": 4461499,
+    "name": "Columbus",
+    "state": "NC",
+    "country": "US",
+    "coord": {
+      "lon": -82.19706,
+      "lat": 35.25317
+    }
+  },
+  {
+    "id": 4462896,
+    "name": "Dallas",
+    "state": "NC",
+    "country": "US",
+    "coord": {
+      "lon": -81.176193,
+      "lat": 35.316528
+    }
+  },
+  {
+    "id": 4463523,
+    "name": "Denver",
+    "state": "NC",
+    "country": "US",
+    "coord": {
+      "lon": -81.0298,
+      "lat": 35.53125
+    }
+  },
+  {
+    "id": 4473083,
+    "name": "Jacksonville",
+    "state": "NC",
+    "country": "US",
+    "coord": {
+      "lon": -77.430237,
+      "lat": 34.754051
+    }
+  },
+  {
+    "id": 4481519,
+    "name": "Nashville",
+    "state": "NC",
+    "country": "US",
+    "coord": {
+      "lon": -77.965538,
+      "lat": 35.974602
+    }
+  },
+  {
+    "id": 4487042,
+    "name": "Raleigh",
+    "state": "NC",
+    "country": "US",
+    "coord": {
+      "lon": -78.638611,
+      "lat": 35.772099
+    }
+  },
+  {
+    "id": 4497666,
+    "name": "Washington",
+    "state": "NC",
+    "country": "US",
+    "coord": {
+      "lon": -77.05217,
+      "lat": 35.546551
+    }
+  },
+  {
+    "id": 4505716,
+    "name": "Baltimore",
+    "state": "OH",
+    "country": "US",
+    "coord": {
+      "lon": -82.600723,
+      "lat": 39.845341
+    }
+  },
+  {
+    "id": 4509177,
+    "name": "Columbus",
+    "state": "OH",
+    "country": "US",
+    "coord": {
+      "lon": -82.998787,
+      "lat": 39.961182
+    }
+  },
+  {
+    "id": 4533688,
+    "name": "Cleveland",
+    "state": "OK",
+    "country": "US",
+    "coord": {
+      "lon": -96.464188,
+      "lat": 36.31007
+    }
+  },
+  {
+    "id": 4542692,
+    "name": "Miami",
+    "state": "OK",
+    "country": "US",
+    "coord": {
+      "lon": -94.877457,
+      "lat": 36.874512
+    }
+  },
+  {
+    "id": 4544349,
+    "name": "Oklahoma City",
+    "state": "OK",
+    "country": "US",
+    "coord": {
+      "lon": -97.516434,
+      "lat": 35.46756
+    }
+  },
+  {
+    "id": 4560349,
+    "name": "Philadelphia",
+    "state": "PA",
+    "country": "US",
+    "coord": {
+      "lon": -75.163788,
+      "lat": 39.952339
+    }
+  },
+  {
+    "id": 4612828,
+    "name": "Charlotte",
+    "state": "TN",
+    "country": "US",
+    "coord": {
+      "lon": -87.339729,
+      "lat": 36.17728
+    }
+  },
+  {
+    "id": 4614088,
+    "name": "Cleveland",
+    "state": "TN",
+    "country": "US",
+    "coord": {
+      "lon": -84.87661,
+      "lat": 35.159519
+    }
+  },
+  {
+    "id": 4638308,
+    "name": "Louisville",
+    "state": "TN",
+    "country": "US",
+    "coord": {
+      "lon": -84.047958,
+      "lat": 35.821751
+    }
+  },
+  {
+    "id": 4641239,
+    "name": "Memphis",
+    "state": "TN",
+    "country": "US",
+    "coord": {
+      "lon": -90.048981,
+      "lat": 35.149529
+    }
+  },
+  {
+    "id": 4644585,
+    "name": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "coord": {
+      "lon": -86.784439,
+      "lat": 36.16589
+    }
+  },
+  {
+    "id": 4650946,
+    "name": "Portland",
+    "state": "TN",
+    "country": "US",
+    "coord": {
+      "lon": -86.51638,
+      "lat": 36.581711
+    }
+  },
+  {
+    "id": 4671576,
+    "name": "Atlanta",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -94.164352,
+      "lat": 33.113739
+    }
+  },
+  {
+    "id": 4671654,
+    "name": "Austin",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -97.743057,
+      "lat": 30.267151
+    }
+  },
+  {
+    "id": 4680560,
+    "name": "Charlotte",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -98.706413,
+      "lat": 28.861919
+    }
+  },
+  {
+    "id": 4682031,
+    "name": "Cleveland",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -99.25367,
+      "lat": 31.676821
+    }
+  },
+  {
+    "id": 4682032,
+    "name": "Cleveland",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -95.085487,
+      "lat": 30.34132
+    }
+  },
+  {
+    "id": 4682665,
+    "name": "Columbus",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -96.539688,
+      "lat": 29.706619
+    }
+  },
+  {
+    "id": 4684888,
+    "name": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -96.806671,
+      "lat": 32.783058
+    }
+  },
+  {
+    "id": 4691930,
+    "name": "Fort Worth",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -97.320847,
+      "lat": 32.72541
+    }
+  },
+  {
+    "id": 4692400,
+    "name": "Fresno",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -95.447441,
+      "lat": 29.538851
+    }
+  },
+  {
+    "id": 4699066,
+    "name": "Houston",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -95.363274,
+      "lat": 29.763281
+    }
+  },
+  {
+    "id": 4700550,
+    "name": "Jacksonville",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -95.2705,
+      "lat": 31.963779
+    }
+  },
+  {
+    "id": 4720131,
+    "name": "Portland",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -97.323883,
+      "lat": 27.877251
+    }
+  },
+  {
+    "id": 4726206,
+    "name": "San Antonio",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -98.493629,
+      "lat": 29.42412
+    }
+  },
+  {
+    "id": 4726311,
+    "name": "San Diego",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -98.238899,
+      "lat": 27.76391
+    }
+  },
+  {
+    "id": 4792307,
+    "name": "Washington",
+    "state": "VA",
+    "country": "US",
+    "coord": {
+      "lon": -78.159439,
+      "lat": 38.713451
+    }
+  },
+  {
+    "id": 4826522,
+    "name": "Washington",
+    "state": "WV",
+    "country": "US",
+    "coord": {
+      "lon": -81.671799,
+      "lat": 39.261189
+    }
+  },
+  {
+    "id": 4841001,
+    "name": "Portland",
+    "state": "CT",
+    "country": "US",
+    "coord": {
+      "lon": -72.640648,
+      "lat": 41.57288
+    }
+  },
+  {
+    "id": 4853799,
+    "name": "Denver",
+    "state": "IA",
+    "country": "US",
+    "coord": {
+      "lon": -92.337402,
+      "lat": 42.671371
+    }
+  },
+  {
+    "id": 4861716,
+    "name": "Indianapolis",
+    "state": "IA",
+    "country": "US",
+    "coord": {
+      "lon": -92.433517,
+      "lat": 41.39695
+    }
+  },
+  {
+    "id": 4880731,
+    "name": "Washington",
+    "state": "IA",
+    "country": "US",
+    "coord": {
+      "lon": -91.69294,
+      "lat": 41.299179
+    }
+  },
+  {
+    "id": 4883772,
+    "name": "Atlanta",
+    "state": "IL",
+    "country": "US",
+    "coord": {
+      "lon": -89.233421,
+      "lat": 40.25948
+    }
+  },
+  {
+    "id": 4887398,
+    "name": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "coord": {
+      "lon": -87.650047,
+      "lat": 41.850029
+    }
+  },
+  {
+    "id": 4905873,
+    "name": "Phoenix",
+    "state": "IL",
+    "country": "US",
+    "coord": {
+      "lon": -87.634773,
+      "lat": 41.611149
+    }
+  },
+  {
+    "id": 4915545,
+    "name": "Washington",
+    "state": "IL",
+    "country": "US",
+    "coord": {
+      "lon": -89.40731,
+      "lat": 40.703651
+    }
+  },
+  {
+    "id": 4925037,
+    "name": "Portland",
+    "state": "IN",
+    "country": "US",
+    "coord": {
+      "lon": -84.977753,
+      "lat": 40.43449
+    }
+  },
+  {
+    "id": 4930956,
+    "name": "Boston",
+    "state": "MA",
+    "country": "US",
+    "coord": {
+      "lon": -71.059769,
+      "lat": 42.358429
+    }
+  },
+  {
+    "id": 4961064,
+    "name": "Cleveland",
+    "state": "ME",
+    "country": "US",
+    "coord": {
+      "lon": -68.258926,
+      "lat": 47.26004
+    }
+  },
+  {
+    "id": 4975802,
+    "name": "Portland",
+    "state": "ME",
+    "country": "US",
+    "coord": {
+      "lon": -70.255333,
+      "lat": 43.661469
+    }
+  },
+  {
+    "id": 4982172,
+    "name": "Washington",
+    "state": "ME",
+    "country": "US",
+    "coord": {
+      "lon": -69.367271,
+      "lat": 44.273689
+    }
+  },
+  {
+    "id": 4984500,
+    "name": "Atlanta",
+    "state": "MI",
+    "country": "US",
+    "coord": {
+      "lon": -84.14389,
+      "lat": 45.00473
+    }
+  },
+  {
+    "id": 4988584,
+    "name": "Charlotte",
+    "state": "MI",
+    "country": "US",
+    "coord": {
+      "lon": -84.835823,
+      "lat": 42.563648
+    }
+  },
+  {
+    "id": 4990729,
+    "name": "Detroit",
+    "state": "MI",
+    "country": "US",
+    "coord": {
+      "lon": -83.045753,
+      "lat": 42.331429
+    }
+  },
+  {
+    "id": 5001644,
+    "name": "Memphis",
+    "state": "MI",
+    "country": "US",
+    "coord": {
+      "lon": -82.768806,
+      "lat": 42.89642
+    }
+  },
+  {
+    "id": 5003243,
+    "name": "Nashville",
+    "state": "MI",
+    "country": "US",
+    "coord": {
+      "lon": -85.093048,
+      "lat": 42.60281
+    }
+  },
+  {
+    "id": 5006314,
+    "name": "Portland",
+    "state": "MI",
+    "country": "US",
+    "coord": {
+      "lon": -84.903053,
+      "lat": 42.869202
+    }
+  },
+  {
+    "id": 5016884,
+    "name": "Austin",
+    "state": "MN",
+    "country": "US",
+    "coord": {
+      "lon": -92.97464,
+      "lat": 43.66663
+    }
+  },
+  {
+    "id": 5056241,
+    "name": "Memphis",
+    "state": "MO",
+    "country": "US",
+    "coord": {
+      "lon": -92.171288,
+      "lat": 40.457809
+    }
+  },
+  {
+    "id": 5066001,
+    "name": "Columbus",
+    "state": "NE",
+    "country": "US",
+    "coord": {
+      "lon": -97.368378,
+      "lat": 41.429729
+    }
+  },
+  {
+    "id": 5072362,
+    "name": "Louisville",
+    "state": "NE",
+    "country": "US",
+    "coord": {
+      "lon": -96.162239,
+      "lat": 40.99778
+    }
+  },
+  {
+    "id": 5106057,
+    "name": "Washington",
+    "state": "NJ",
+    "country": "US",
+    "coord": {
+      "lon": -74.97934,
+      "lat": 40.75843
+    }
+  },
+  {
+    "id": 5113380,
+    "name": "Columbus",
+    "state": "NY",
+    "country": "US",
+    "coord": {
+      "lon": -75.372673,
+      "lat": 42.68396
+    }
+  },
+  {
+    "id": 5114824,
+    "name": "Delhi",
+    "state": "NY",
+    "country": "US",
+    "coord": {
+      "lon": -74.915993,
+      "lat": 42.278141
+    }
+  },
+  {
+    "id": 5128638,
+    "name": "New York",
+    "state": "NY",
+    "country": "US",
+    "coord": {
+      "lon": -75.499901,
+      "lat": 43.000351
+    }
+  },
+  {
+    "id": 5131095,
+    "name": "Philadelphia",
+    "state": "NY",
+    "country": "US",
+    "coord": {
+      "lon": -75.708817,
+      "lat": 44.154499
+    }
+  },
+  {
+    "id": 5131135,
+    "name": "Phoenix",
+    "state": "NY",
+    "country": "US",
+    "coord": {
+      "lon": -76.300758,
+      "lat": 43.231178
+    }
+  },
+  {
+    "id": 5150529,
+    "name": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "coord": {
+      "lon": -81.695412,
+      "lat": 41.4995
+    }
+  },
+  {
+    "id": 5161347,
+    "name": "Louisville",
+    "state": "OH",
+    "country": "US",
+    "coord": {
+      "lon": -81.259552,
+      "lat": 40.83728
+    }
+  },
+  {
+    "id": 5186266,
+    "name": "Dallas",
+    "state": "PA",
+    "country": "US",
+    "coord": {
+      "lon": -75.963249,
+      "lat": 41.336189
+    }
+  },
+  {
+    "id": 5186794,
+    "name": "Denver",
+    "state": "PA",
+    "country": "US",
+    "coord": {
+      "lon": -76.137169,
+      "lat": 40.23315
+    }
+  },
+  {
+    "id": 5194369,
+    "name": "Houston",
+    "state": "PA",
+    "country": "US",
+    "coord": {
+      "lon": -80.211449,
+      "lat": 40.24646
+    }
+  },
+  {
+    "id": 5218069,
+    "name": "Washington",
+    "state": "PA",
+    "country": "US",
+    "coord": {
+      "lon": -80.24617,
+      "lat": 40.173962
+    }
+  },
+  {
+    "id": 5248933,
+    "name": "Cleveland",
+    "state": "WI",
+    "country": "US",
+    "coord": {
+      "lon": -87.747307,
+      "lat": 43.914989
+    }
+  },
+  {
+    "id": 5249205,
+    "name": "Columbus",
+    "state": "WI",
+    "country": "US",
+    "coord": {
+      "lon": -89.015388,
+      "lat": 43.338051
+    }
+  },
+  {
+    "id": 5263045,
+    "name": "Milwaukee",
+    "state": "WI",
+    "country": "US",
+    "coord": {
+      "lon": -87.906471,
+      "lat": 43.038898
+    }
+  },
+  {
+    "id": 5304640,
+    "name": "Miami",
+    "state": "AZ",
+    "country": "US",
+    "coord": {
+      "lon": -110.868721,
+      "lat": 33.39922
+    }
+  },
+  {
+    "id": 5308655,
+    "name": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "coord": {
+      "lon": -112.074043,
+      "lat": 33.44838
+    }
+  },
+  {
+    "id": 5318313,
+    "name": "Tucson",
+    "state": "AZ",
+    "country": "US",
+    "coord": {
+      "lon": -110.926483,
+      "lat": 32.221741
+    }
+  },
+  {
+    "id": 5342522,
+    "name": "Delhi",
+    "state": "CA",
+    "country": "US",
+    "coord": {
+      "lon": -120.778542,
+      "lat": 37.432159
+    }
+  },
+  {
+    "id": 5350937,
+    "name": "Fresno",
+    "state": "CA",
+    "country": "US",
+    "coord": {
+      "lon": -119.772369,
+      "lat": 36.74773
+    }
+  },
+  {
+    "id": 5368361,
+    "name": "Los Angeles",
+    "state": "CA",
+    "country": "US",
+    "coord": {
+      "lon": -118.243683,
+      "lat": 34.052231
+    }
+  },
+  {
+    "id": 5389489,
+    "name": "Sacramento",
+    "state": "CA",
+    "country": "US",
+    "coord": {
+      "lon": -121.4944,
+      "lat": 38.58157
+    }
+  },
+  {
+    "id": 5391811,
+    "name": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "coord": {
+      "lon": -117.157257,
+      "lat": 32.715328
+    }
+  },
+  {
+    "id": 5391959,
+    "name": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "coord": {
+      "lon": -122.419418,
+      "lat": 37.774929
+    }
+  },
+  {
+    "id": 5392171,
+    "name": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "coord": {
+      "lon": -121.894958,
+      "lat": 37.33939
+    }
+  },
+  {
+    "id": 5417598,
+    "name": "Colorado Springs",
+    "state": "CO",
+    "country": "US",
+    "coord": {
+      "lon": -104.821358,
+      "lat": 38.833881
+    }
+  },
+  {
+    "id": 5419384,
+    "name": "Denver",
+    "state": "CO",
+    "country": "US",
+    "coord": {
+      "lon": -104.984703,
+      "lat": 39.739151
+    }
+  },
+  {
+    "id": 5429522,
+    "name": "Louisville",
+    "state": "CO",
+    "country": "US",
+    "coord": {
+      "lon": -105.131927,
+      "lat": 39.97776
+    }
+  },
+  {
+    "id": 5454711,
+    "name": "Albuquerque",
+    "state": "NM",
+    "country": "US",
+    "coord": {
+      "lon": -106.651138,
+      "lat": 35.084492
+    }
+  },
+  {
+    "id": 5462683,
+    "name": "Columbus",
+    "state": "NM",
+    "country": "US",
+    "coord": {
+      "lon": -107.640022,
+      "lat": 31.8276
+    }
+  },
+  {
+    "id": 5475433,
+    "name": "Las Vegas",
+    "state": "NM",
+    "country": "US",
+    "coord": {
+      "lon": -105.2239,
+      "lat": 35.593929
+    }
+  },
+  {
+    "id": 5506956,
+    "name": "Las Vegas",
+    "state": "NV",
+    "country": "US",
+    "coord": {
+      "lon": -115.137222,
+      "lat": 36.174969
+    }
+  },
+  {
+    "id": 5526145,
+    "name": "Memphis",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -100.534012,
+      "lat": 34.724781
+    }
+  },
+  {
+    "id": 5526233,
+    "name": "Miami",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -100.638191,
+      "lat": 35.691429
+    }
+  },
+  {
+    "id": 5549222,
+    "name": "Washington",
+    "state": "UT",
+    "country": "US",
+    "coord": {
+      "lon": -113.508293,
+      "lat": 37.130539
+    }
+  },
+  {
+    "id": 5557906,
+    "name": "Thane",
+    "state": "AK",
+    "country": "US",
+    "coord": {
+      "lon": -134.330276,
+      "lat": 58.264172
+    }
+  },
+  {
+    "id": 5645893,
+    "name": "Columbus",
+    "state": "MT",
+    "country": "US",
+    "coord": {
+      "lon": -109.252113,
+      "lat": 45.636608
+    }
+  },
+  {
+    "id": 5722064,
+    "name": "Dallas",
+    "state": "OR",
+    "country": "US",
+    "coord": {
+      "lon": -123.317047,
+      "lat": 44.919281
+    }
+  },
+  {
+    "id": 5733409,
+    "name": "Jacksonville",
+    "state": "OR",
+    "country": "US",
+    "coord": {
+      "lon": -122.966988,
+      "lat": 42.313461
+    }
+  },
+  {
+    "id": 5745656,
+    "name": "Phoenix",
+    "state": "OR",
+    "country": "US",
+    "coord": {
+      "lon": -122.818092,
+      "lat": 42.27541
+    }
+  },
+  {
+    "id": 5746545,
+    "name": "Portland",
+    "state": "OR",
+    "country": "US",
+    "coord": {
+      "lon": -122.676208,
+      "lat": 45.523449
+    }
+  },
+  {
+    "id": 5809844,
+    "name": "Seattle",
+    "state": "WA",
+    "country": "US",
+    "coord": {
+      "lon": -122.332069,
+      "lat": 47.606209
+    }
+  },
+  {
+    "id": 5815135,
+    "name": "Washington",
+    "state": "WA",
+    "country": "US",
+    "coord": {
+      "lon": -120.501472,
+      "lat": 47.500118
+    }
+  },
+  {
+    "id": 5864312,
+    "name": "Houston",
+    "state": "AK",
+    "country": "US",
+    "coord": {
+      "lon": -149.818054,
+      "lat": 61.63028
+    }
+  },
+  {
+    "id": 6332120,
+    "name": "Columbus",
+    "state": "MN",
+    "country": "US",
+    "coord": {
+      "lon": -93.050148,
+      "lat": 45.265221
+    }
+  },
+  {
+    "id": 6619347,
+    "name": "Navi Mumbai",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 73.015823,
+      "lat": 19.03681
+    }
+  },
+  {
+    "id": 8131498,
+    "name": "Aurangabad",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 75.339859,
+      "lat": 19.88467
+    }
+  }
+]

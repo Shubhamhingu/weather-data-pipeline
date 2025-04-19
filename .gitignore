@@ -2,6 +2,7 @@
 __pycache__/
 .env
 config.py
-.cloud/
+cloud/
 *.db
 *.json
+!lambda_code/major_cities.json
